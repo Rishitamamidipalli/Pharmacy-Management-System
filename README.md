@@ -28,7 +28,7 @@ Pharmacy management system for saving time, manipulating,and working on data of 
 ```
   ER Daigram
 ```
-![Screenshot 2024-07-04 002127](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/bc1bc7fb-5897-4651-a671-f0e937241757)
+<img src="Screenshot 2024-07-04 002127](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/bc1bc7fb-5897-4651-a671-f0e937241757" width="500",height="500" />
 ```
   Schema Diagram
 ```
@@ -36,7 +36,7 @@ Pharmacy management system for saving time, manipulating,and working on data of 
 ```
   MYSQL Local Database
 ```
-![Screenshot 2024-07-04 001942](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/eaea1bc5-9d2c-4956-9b40-e24d3746c1a3)
+![Screenshot 2024-07-03 210128](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/2e1e34b6-d037-4849-9e0a-afc2a7df5492)
 
 For more information refer [PPT_DBMS](<PPT_DBMS .pptx>)
 * * *
