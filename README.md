@@ -40,6 +40,6 @@ Pharmacy management system for saving time, manipulating,and working on data of 
 For more information refer [PPT_DBMS](<PPT_DBMS .pptx>)
 * * *
 ### DEMO 
-https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/f4ab5cbe-d652-434c-abf4-4b00d09b12d3
+https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/3f78a2c4-cfd4-4af1-9d80-13d43e299e04
 For more information refer [USERMANUAL](<USERMANUAL.docx>)
 * * *
