@@ -28,7 +28,7 @@ Pharmacy management system for saving time, manipulating,and working on data of 
 ```
   ER Daigram
 ```
-<img src="Screenshot 2024-07-04 002127](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/bc1bc7fb-5897-4651-a671-f0e937241757" width="500",height="500" />
+<img src="https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/bc1bc7fb-5897-4651-a671-f0e937241757" width="500",height="500" />
 ```
   Schema Diagram
 ```
