@@ -19,7 +19,7 @@ Pharmacy management system for saving time, manipulating,and working on data of 
 4. Place the folder in this location C:\xampp\htdocs
 
 5. Go to your favourite browser and enter
-- ```
+  ```
   localhost/{foldername}
 ```
 * * *
