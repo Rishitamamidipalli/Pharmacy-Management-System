@@ -22,18 +22,24 @@ Pharmacy management system for saving time, manipulating,and working on data of 
   ```
   localhost/{foldername}
 ```
+6. Download xyz.sql and import in your MySQL local [databases](#http://localhost/phpmyadmin)
 * * *
 ### Architecture
 ```
   ER Daigram
 ```
-
+![Screenshot 2024-07-03 181236](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/0fa85af1-402e-46c5-a5e2-4f884314bfb8)
 ```
   Schema Diagram
 ```
+![Screenshot 2024-07-03 181310](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/f48a89cb-fdd0-48a5-be63-adb335d768a1)
+```
+  MYSQL Local Database
+```
+![Screenshot 2024-07-03 210128](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/f44deb8e-f031-4ea4-b326-b426d8bb9628)
 For more information refer [PPT_DBMS](<PPT_DBMS .pptx>)
 * * *
 ### DEMO 
-
-* * *
+https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/f4ab5cbe-d652-434c-abf4-4b00d09b12d3
 For more information refer [USERMANUAL](<USERMANUAL.docx>)
+* * *
