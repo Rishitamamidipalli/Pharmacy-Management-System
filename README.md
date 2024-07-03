@@ -37,9 +37,11 @@ Pharmacy management system for saving time, manipulating,and working on data of 
   MYSQL Local Database
 ```
 ![Screenshot 2024-07-04 001005](https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/93f8f197-39e9-4c3e-beea-8f042b7e4771)
+
 For more information refer [PPT_DBMS](<PPT_DBMS .pptx>)
 * * *
 ### DEMO 
-https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/3f78a2c4-cfd4-4af1-9d80-13d43e299e04
+https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/bdde85c5-42b8-4278-8d50-2c7584007643
+
 For more information refer [USERMANUAL](<USERMANUAL.docx>)
 * * *
