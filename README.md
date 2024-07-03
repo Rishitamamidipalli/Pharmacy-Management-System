@@ -2,11 +2,11 @@
 Pharmacy management system for saving time, manipulating,and working on data of Pharmacy medical products. This helps Pharmacists of a company to minimize time consumption, manpower, and paperwork while working on pharmacy products. PMS also helps to store data in a secure,organized way and for easy billing.
 * * *
 ### Table of Contents 
--[Installation](#Installation)
+- [Installation](#Installation)
 
--[Architecture](#Architecture)
+- [Architecture](#Architecture)
 
--[DEMO](#DEMO)
+- [DEMO](#DEMO)
 
 * * *
 ### Installation
