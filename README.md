@@ -43,6 +43,8 @@ This is a database project which is useful to a pharmacist to manage his pharmac
 For more information refer [PPT_DBMS](<PPT_DBMS .pptx>)
 * * *
 ### DEMO 
+Here yaswanth_01 is manager and rest all are employees under him. There are two different interfaces for employee and Manager
+
 https://github.com/Rishitamamidipalli/Pharmacy-Management-System/assets/123208162/bdde85c5-42b8-4278-8d50-2c7584007643
 
 For more information refer [USERMANUAL](<USERMANUAL.docx>)
